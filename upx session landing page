@@ -1,0 +1,721 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+    crossorigin="anonymous">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="css/style.css">
+  <title>info Session-UpX Academy</title>
+</head>
+<body>
+<style >
+@media only screen and (min-width: 0px){
+#details-list{background-image: url("https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/sbg-1404.png");
+	    background-position: top left;
+    min-height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 0px;
+	}
+
+}<script>
+fbq('track', 'Lead', {
+value: 10.00,
+currency: 'INR'
+});
+</script>
+<style>
+.learning-path .container {
+ 	background-color: #eee;
+}
+.learning-path {
+
+}
+</style>
+
+
+<style>
+@media only screen and (min-width: 0px) {
+
+#details-list{position:relative;}
+
+}
+@media only screen and (min-width: 0px) {
+#details-list .details{display:flex;flex-wrap:wrap;justify-content:center;margin:100px 0px 40px;}
+}
+@media only screen and (min-width: 0px) {
+#details-list .details .detail{ max-height: 300px;
+    padding: 20px;
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  
+    border-radius: 5px;
+   
+    margin: 5px 15px;}
+	
+	}
+	
+@media only screen and (min-width: 0px){
+#details-list{background-image: url("https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/sbg-1404.png");
+	    background-position: top left;
+    min-height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 0px;
+	}
+
+}
+</style>
+    
+        <header>
+            <div class="container">
+               
+                <div class="header-content">
+                    <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/hyphen.png" alt="" class="top-logo img-responsive">
+                    <div class="heading">
+                        <h1 class="upper-text white-text square"><span class="raleway bold-text">6 MONTH CERTIFICATE PROGRAM 
+</span><br>IN BIG DATA &amp; DATA SCIENCE</h1>
+                    </div>
+                    
+                    <div class="content">
+                        <h3 class="raleway white-text">Interactive session discussing course structure, curriculum and
+timings about upcoming batches. 
+</h3>
+                    </div>
+                    
+                    <div style="margin-top:25px">
+                    
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/tm-logo.png" alt="" class="img-responsive">
+                    </div>
+                </div>
+                
+                <div class="form-div-holder" style="padding-bottom:0px">
+                   <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/blip.png" alt="" id="top-blip">
+                   <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/blip.png" alt="" id="bottom-blip">
+                    <div class="form-holder">
+                        <h4 class="white-text text-center roboto light-text">For Enquiries</h4>
+                        <div class="second-line">
+                           
+                            <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/1404%20(2).png" alt="" class="call-logo img-responsive">
+                            <h3 class="white-text text-center roboto light-text">1800-123-1260</h3>
+                        </div>
+                        <form action="https://web.mxradon.com/t/FormTracker.aspx" class="the-form" data-mxform-id="1" style="margin-bottom:0px" name="FORM 0" method="Post" enctype="multipart/form-data">
+                            <h4 class="upper-text raleway text-center bold-text">ONLINE &amp; FREE</h4>
+                            <h5 class="orange-text text-center gothic black-text">4th June | 5th June | 9 PM IST</h5>
+                            <input type="text" placeholder="First Name" class="form-input gothic" data-old-name="first_name" data-name="FirstName" data-is-mapped="1" required="required" name="FirstName">
+                            <input type="text" placeholder="Last Name" class="form-input gothic" data-old-name="last_name" data-name="LastName" data-is-mapped="1" required="required" name="LastName">
+                            <input type="email" placeholder="Email" class="form-input gothic" data-old-name="email" data-name="EmailAddress" data-is-mapped="1" required="required" name="EmailAddress">
+                            <input type="tel" pattern="\d\d\d\d\d\d\d\d\d\d+" placeholder="Phone" class="form-input gothic" data-old-name="phone" data-name="Phone" data-is-mapped="1" required="required" name="Phone">
+                            
+                            <input type="submit" class="form-input orange-button raleway bold-text" value="Save My Spot">
+                        <input type="hidden" name="MXHOrgCode" value="13870"><input type="hidden" name="MXHLandingPageId" value="0598f953-3967-11e7-996c-22000aa41726"><input type="hidden" name="MXHFormBehaviour" value="1"><input type="hidden" name="MXHOutputMessagePosition" value="0"><input type="hidden" name="MXHFormDataTransfer" value="0"><input type="hidden" name="MXHRedirectUrl" value="http://events.upxacademy.com/Thank-You-Page"><input type="hidden" name="MXHAsc" value="5"><input type="hidden" name="MXHFormName" value="FORM 0"><input type="hidden" name="MXHSecretKey" value=""></form>
+                    </div>
+                    
+                </div>
+            </div>
+        </header>
+        
+        <section id="why-attend">
+            <div class="container">
+               <div class="section-heading">
+<!--                   <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/top-link-1404.png" alt="" class="img-responsive">-->
+                   <h1 class="white-text text-center upper-text roboto light-text">COURSE HIGHLIGHTS</h1>
+               </div>
+                <div class="reasons">
+                    <div class="reason">
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%207.png" alt="" class="img-responsive center-block">
+                        <p class="raleway text-center">Online, live &amp; Interactive 
+sessions with use cases, 
+theory and projects</p>
+                    </div>
+                    <div class="reason">
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%208.png" alt="" class="img-responsive center-block">
+                        <p class="raleway text-center">Hands-on experience with 
+real world datasets from BFSI, 
+Retail, Healthcare, 
+Entertainment &amp; Sports</p>
+                    </div>
+                    <div class="reason">
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%209.png" alt="" class="img-responsive center-block">
+                        <p class="raleway text-center">Best in class curriculum 
+designed by Industry experts 
+with pre-reads, videos, 
+assignments &amp; installation guides</p>
+                    </div>
+                    <div class="reason">
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2010.png" alt="" class="img-responsive center-block">
+                        <p class="raleway text-center">Industry recognised 
+certification by
+TECH MAHINDRA</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="details-list">
+            <div class="container">
+              <div class="section-heading">
+                    <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/1404%20(10).png" alt="" class="img-responsive">
+                    <h1 class="orange-text upper-text text-center light-text roboto">Speakers</h1>
+                </div>
+                <div class="details">
+  
+                    <div class="detail">
+  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Artboard%201(1).png" alt="" class="img-responsive center-block" style="
+    
+
+">
+                        <h4 class="white-text text-center upper-text roboto light-text">Manvender Singh</h4>
+<p style=" color:white;" class="raleway text-center"> Founder &amp; CEO
+UpX Academy
+MBA, ISB</p>
+
+
+                    </div>
+					
+                    <div class="detail">
+  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Artboard%202.png" alt="" class="img-responsive center-block" "="">
+                        <h4 class="white-text text-center upper-text roboto light-text">Suchit Majumdar</h4>
+<p style=" color:white;" class="raleway text-center">IoT &amp; Smart City consultant
+with AP Government<br>
+MBA, ISB</p>
+
+
+                    </div>
+					
+<div class="detail">
+ 
+
+ <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Artboard%203(1).png" alt="" class="img-responsive center-block" "="">
+	
+	 <h4 class="white-text text-center upper-text roboto light-text">Arun K</h4>
+                        <p style=" color:white;" class="raleway text-center">Healthcare Analytics Expert
+University of Cologne</p>
+
+                    
+</div>
+		<!--			
+<div class="detail">
+ <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Artboard%204.png" alt="" class="img-responsive center-block" "="">
+	
+	 <h4 class="white-text text-center upper-text roboto light-text">C V Goudar</h4>
+                        <p style=" color:white;" class="raleway text-center">Principal Data Scientist <br> Hewlett-Packard<br> IIM Bangalore</p>
+
+                    </div>
+
+-->
+                    
+
+                    </div>
+                  
+                </div>
+            </section>
+        <section id="speakers-list">
+            <div class="container">
+                <div class="section-heading">
+                    <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/globe.png" alt="" class="img-responsive">
+                    <h1 class="white-text text-center light-text roboto">World Class Faculty</h1>
+                </div>
+                <div class="speakers">
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">Big Data Consultant &amp; Trainer,</h4>
+                        <h4 class="raleway white-text">California</h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2013.png" alt="" class="img-responsive">
+                    </div>
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">Head of Analytics
+</h4>
+                        <h4 class="raleway white-text">Kabbage Inc</h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2014.png" alt="" class="img-responsive">
+                    </div>
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">IoT &amp; Smart City expert,</h4>
+                        <h4 class="raleway white-text">Data Scientist</h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2015.png" alt="" class="img-responsive">
+                    </div>
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">Big Data Trainer,</h4>
+                        <h4 class="raleway white-text"></h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2016.png" alt="" class="img-responsive">
+                    </div>
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">Principal Data Scientist</h4>
+                        <h4 class="raleway white-text"></h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2017.png" alt="" class="img-responsive">
+                    </div>
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">Head of Google Projects</h4>
+                        <h4 class="raleway white-text"></h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2018.png" alt="" class="img-responsive">
+                    </div>
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">Ex - VP &amp; Head,</h4>
+                        <h4 class="raleway white-text">Big Data Analytics</h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2019.png" alt="" class="img-responsive">
+                    </div>
+                    <div class="speaker">
+                        <h4 class="raleway white-text bold-text">Analytics Expert,</h4>
+                        <h4 class="raleway white-text">Life Science Domain</h4>
+                        <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Copy%20(1)%20of%20Asset%2020.png" alt="" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+          <section id="bd" class="learning-path">
+              <div class="container">
+                  <h3 class="title upper-text raleway"><span class="bold-text upper-text">Big Data</span> Learning path</h3>
+                  <div class="icon"><img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2022.png" alt="" class="img-responsive"></div>
+                  
+<!--                  div.graph>.graph-column*4>h5.no-weeks.bold-text.raleway+(.graph-row>(.gradi-holder>.gradi+no-weeks.indi))+(.stone>h5.name.upper-text.bold-text.raleway+img.img-responsive)-->
+<!--                  div.graph>.graph-column*4>(h4.no-weeks.bold-text.raleway>{6 Weeks})+(.graph-row>(.gradi-holder>h5.white-text.raleway.yellow-gradi+h5.raleway.no-weeks.indi))+(.stone>h5.name.upper-text.bold-text.raleway+img.img-responsive)-->
+                  <div class="graph">
+                      <div class="graph-column">
+                          <h4 class="no-weeks black-text roboto">6 Weeks</h4>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Hadoop</h5>
+                                  <h5 class="raleway no-weeks indi">6 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">Foundation</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                      <div class="graph-column">
+                          <h4 class="no-weeks bold-text roboto">9 Weeks</h4>
+                          
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway green gradi">MongoDB, HBase
+Sqoop &amp; Flume</h5>
+                                  <h5 class="raleway no-weeks indi">3 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Hadoop</h5>
+                                  <h5 class="raleway no-weeks indi">6 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">specialization</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/green-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                      <div class="graph-column">
+                          <h4 class="no-weeks bold-text roboto">14 Weeks</h4>
+                          
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway blue gradi">Spark</h5>
+                                  <h5 class="raleway no-weeks indi">5 Weeks</h5>
+                              </div>
+                          </div>
+                             
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway green gradi">MongoDB, HBase
+Sqoop &amp; Flume</h5>
+                                  <h5 class="raleway no-weeks indi">3 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Hadoop</h5>
+                                  <h5 class="raleway no-weeks indi">6 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">Super Specialization</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/green-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/blue-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                      <div class="graph-column">
+                          <h4 class="no-weeks bold-text roboto">25 Weeks</h4>
+                          
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway orange gradi">Big Data 
+Integration &amp;
+Processing
+</h5>
+                                  <h5 class="raleway no-weeks indi">5 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway orange gradi">Machine 
+Learning 
+with Spark</h5>
+                                  <h5 class="raleway no-weeks indi">6 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway blue gradi">Spark</h5>
+                                  <h5 class="raleway no-weeks indi">5 Weeks</h5>
+                              </div>
+                          </div>
+                             
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway green gradi">MongoDB, HBase
+Sqoop &amp; Flume</h5>
+                                  <h5 class="raleway no-weeks indi">3 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Hadoop</h5>
+                                  <h5 class="raleway no-weeks indi">6 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">6 Month Certificate Programme</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/green-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/blue-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/oramge-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </section>
+          
+          <section id="ds" class="learning-path">
+              <div class="container">
+                  <h3 class="title upper-text raleway"><span class="bold-text upper-text">Data Science</span> Learning path</h3>
+                  <div class="icon"><img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/Asset%2023.png" alt="" class="img-responsive"></div>
+                  
+<!--                  div.graph>.graph-column*4>h5.no-weeks.bold-text.raleway+(.graph-row>(.gradi-holder>.gradi+no-weeks.indi))+(.stone>h5.name.upper-text.bold-text.raleway+img.img-responsive)-->
+<!--                  div.graph>.graph-column*4>(h4.no-weeks.bold-text.raleway>{6 Weeks})+(.graph-row>(.gradi-holder>h5.white-text.raleway.yellow-gradi+h5.raleway.no-weeks.indi))+(.stone>h5.name.upper-text.bold-text.raleway+img.img-responsive)-->
+                  <div class="graph">
+                      <div class="graph-column">
+                          <h4 class="no-weeks black-text roboto">5 Weeks</h4>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Data analytics 
+with Python</h5>
+                                  <h5 class="raleway no-weeks indi">5 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">Foundation</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                      <div class="graph-column">
+                          <h4 class="no-weeks bold-text roboto">9 Weeks</h4>
+                          
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway green gradi">Tableau</h5>
+                                  <h5 class="raleway no-weeks indi">4 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Data analytics 
+with Python</h5>
+                                  <h5 class="raleway no-weeks indi">5 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">specialization</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/green-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                      <div class="graph-column">
+                          <h4 class="no-weeks bold-text roboto">14 Weeks</h4>
+                          
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway blue gradi">Machine 
+Learning </h5>
+                                  <h5 class="raleway no-weeks indi">5 Weeks</h5>
+                              </div>
+                          </div>
+                             
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway green gradi">Tableau</h5>
+                                  <h5 class="raleway no-weeks indi">4 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Data analytics 
+with Python</h5>
+                                  <h5 class="raleway no-weeks indi">5 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">Super Specialization</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/green-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/blue-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                      <div class="graph-column">
+                          <h4 class="no-weeks bold-text roboto">25 Weeks</h4>
+                          
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway orange gradi">Deep Learning
+for NLP</h5>
+                                  <h5 class="raleway no-weeks indi">5 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway orange gradi">Advanced 
+Machine
+Learning</h5>
+                                  <h5 class="raleway no-weeks indi">6 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway blue gradi">Machine 
+Learning </h5>
+                                  <h5 class="raleway no-weeks indi">5 Weeks</h5>
+                              </div>
+                          </div>
+                             
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway green gradi">Tableau</h5>
+                                  <h5 class="raleway no-weeks indi">4 Weeks</h5>
+                              </div>
+                          </div>
+                          <div class="graph-row">
+                              <div class="gradi-holder">
+                                  <h5 class="white-text raleway yellow gradi">Data analytics 
+with Python</h5>
+                                  <h5 class="raleway no-weeks indi">5 weeks</h5>
+                              </div>
+                          </div>
+                          <div class="stone">
+                              <h4 class="name upper-text black-text roboto">6 Month Certificate Programme</h4>
+                              <div class="stars">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/yellow-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/green-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/blue-star.png" alt="" class="img-responsive">
+                                  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/oramge-star.png" alt="" class="img-responsive">
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </section>
+        
+        <section id="student-speak">
+            <div class="container">
+                <div class="section-heading">
+                    <h2 class="white-text text-center roboto light-text">UpX Student Speak</h2>
+                </div>
+                <div class="speaks">
+                   <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/1404%20(1).png" alt="" class="quote img-responsive left-quote">
+                   <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20161026195759/content/common/images/1404%20(1).png" alt="" class="quote img-responsive right-quote">
+                    <div class="speak">
+                        <p class="white-text text-justify roboto light-text">UpX Academy has understood the Big Data Analytics space fairly well and are doinga brilliant job in educating 
+young leaders and professionals who look forward to join this sector.</p>
+                        <p class="author white-text text-right roboto light-text">- Jai Kumar - Director, BI, NTT DATA</p>
+                    </div>
+                    <div class="speak">
+                        <p class="white-text text-justify roboto light-text">UpX Academy has excellent faculty on-board that brings in industry perspective in their programs. The five week 
+training they conducted has helped my team adopt the latest Big Data Analytics practices. </p>
+                        <p class="author white-text text-right roboto light-text">- Puneet Sakhuja - BI, Analytics - Practice leader, Tech Mahindra</p>
+                    </div>
+                    <div class="speak">
+                        <p class="white-text text-justify roboto light-text">Initially, we were a bit apprehensive about online trainings. But the interactive approach, support and the way the 
+trainings were organized impressed my team. The pace of the training was perfect and suitable for even beginners 
+in this area.</p>
+                        <p class="author white-text text-right roboto light-text">- Siddharth Bhattacharya - AVP Analytics, Barclays</p>
+                    </div>
+                </div>
+            </div>
+        </section> 
+<!--
+        <section id="student-speak">
+            <div class="container">
+                <div class="section-heading">
+ <h2 class="white-text text-center roboto light-text">UpX Student Speak</h2>
+                </div>
+                   
+
+					<style>
+.reasons1 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: 15px 0px 40px;
+}
+.reason1 {
+    min-height: 200px;
+    padding: 20px;
+    max-width: 300px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid #fff;
+    border-radius: 15px;
+   
+    margin: 25px;
+}
+
+
+.why-attend1 {
+    position: relative;
+   
+}
+
+</style>
+                 
+<section class="why-attend1">
+<div class="reasons1">
+
+                    <div class="reason1">
+                      
+                        <p style="color:white";class="raleway text-center">UpX Academy has understood the Big Data Analytics space fairly well and are doinga brilliant job in educating young leaders and professionals who look forward to join this sector.</p>
+                    <h5 class="orange-text text-center gothic black-text">-Jai Kumar</h5>
+					 <p style="color:white";class="raleway text-center"> Director, BI, NTT DATA</p>
+				   </div>
+                    <div class="reason1">
+                      
+                      					  <p style="color:white"; class="raleway text-center ">UpX Academy has excellent faculty on-board that brings in industry perspective in their programs. The five week training they conducted has helped my team adopt the latest Big Data Analytics practices. </p>
+                    <h5 class="orange-text text-center gothic black-text">-Puneet Sakhuja</h5>
+					 <p style="color:white";class="raleway text-center">  BI, Analytics - Practice leader, Tech Mahindra</p>
+				   </div>
+                    <div class="reason1">
+                        
+                        <p style="color:white"; class="raleway text-center"> Initially, we were a bit apprehensive about online trainings. But the interactive approach, support and the way the trainings were organized impressed my team. The pace of the training was perfect and suitable for even beginners in this area.</p>
+                     <h5 class="orange-text text-center gothic black-text">-Siddharth Bhattacharya</h5>
+					  <p style="color:white";class="raleway text-center">  Siddharth Bhattacharya - AVP Analytics, Barclays</p>
+					</div>
+                   
+                </div></section>
+                </div>
+                
+				
+				
+				
+            </div>
+        </section>-->
+        <section id="about">
+            <div class="container">
+                <div class="section-heading">
+                    <h1 class="text-center roboto light-text">About UpX Academy</h1>
+                </div>
+                <p class="text-justify roboto light-text">In today’s digital age, data has the potential to transform businesses through insights and analytics. However, this 
+power still awaits to be fully harnessed. As a world-class educational venture, we recognize this challenge and are 
+therefore committed to empower professionals through transformational courses in Big Data and Data Science. 
+</p>
+            </div>
+        </section>
+       
+        <section id="our-courses">
+            <div class="container">
+                <div class="section-heading">
+                    <h2 class="upper-text text-center roboto light-text">Our Courses</h2>
+                </div>
+                <div class="courses">
+                    <div class="course">
+                        <h4 class="text-center raleway black-text white-text upper-text">Big Data</h4>
+                        <h4 class="text-center raleway light-text white-text upper-text">Hadoop</h4>
+                        <h4 class="text-center raleway light-text white-text upper-text">Apache Spark</h4>
+                        <h4 class="text-center raleway light-text white-text upper-text">Mongo DB</h4>
+                        <a href="https://upxacademy.com/" class="orange-button upper-text roboto light-text">Know More</a>
+                        <div class="bg left"></div>
+                        <div class="bg right"></div>
+                    </div>
+                    <div class="course">
+                        <h4 class="text-center raleway black-text white-text upper-text">Data Science</h4>
+                        <h4 class="text-center raleway light-text white-text upper-text">Data Analytics</h4>
+                        <h4 class="text-center raleway light-text white-text upper-text">Machine Learning</h4>
+                        <h4 class="text-center raleway light-text white-text upper-text">Tableau</h4>
+                        <a href="https://upxacademy.com/" class="orange-button upper-text roboto light-text">Know More</a>
+                        <div class="bg left"></div>
+                        <div class="bg right"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <footer>
+            <div class="container">
+                <div class="first">
+                    <a href="http://www.upxacademy.com" class="white-text roboto">www.upxacademy.com</a>
+                    <a href="mailto:info@upxacademy.com" class="white-text roboto">Email: info@upxacademy.com</a>
+                </div>
+                <div class="second">
+                    <p class="white-text roboto text-right">© 2017 Upx. All rights Reserved</p>
+                </div>
+            </div>
+        </footer>
+        
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?3xJLN2tMYFAKr4IbVCGxBdsH7zU3zmhQ";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zendesk Chat Script-->
+<script type="text/javascript"> var MXLandingPageId = '0598f953-3967-11e7-996c-22000aa41726'; </script> <!--LeadSquared Tracking Code Start-->
+<script type="text/javascript" src="https://web.mxradon.com/t/Tracker.js"></script>
+<script type="text/javascript">
+      pidTracker('13870');
+</script>
+<!--LeadSquared Tracking Code End--></body></html
